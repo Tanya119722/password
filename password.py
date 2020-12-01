@@ -1,7 +1,7 @@
 password = 'a123456'
 i = 3
-i = i - 1
 while i > 0: 
+    i = i - 1
     pws=input('pls input the password:')
     if pws == 'a123456':
         print('the password is correct')
